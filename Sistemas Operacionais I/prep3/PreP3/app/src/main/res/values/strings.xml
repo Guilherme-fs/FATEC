@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculadoraEquacaoSegundoGrau</string>
+    <string name="valor1">Informe o valor de A</string>
+    <string name="valor2">Informe o valor de B</string>
+    <string name="valor3">Informe o valor de C</string>
+    <string name="calcular">Calcular</string>
+</resources>
